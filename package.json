@@ -1,0 +1,25 @@
+{
+  "name": "tlstorage",
+  "version": "1.0.0",
+  "description": "Typed local storage helper",
+  "main": "./src/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "watching": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surpri6e/tlstorage.git"
+  },
+  "keywords": [],
+  "author": "surpri6e",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surpri6e/tlstorage/issues"
+  },
+  "homepage": "https://github.com/surpri6e/tlstorage#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
